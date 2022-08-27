@@ -1,1 +1,1 @@
-git fetch origin
+echo "echo > up_to_date"
